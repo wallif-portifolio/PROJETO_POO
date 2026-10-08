@@ -1,0 +1,1 @@
+[{"id":1,"nome":"3","capacidade":3,"disponivel":true,"precoPorHora":50.0,"tipo":"SalaDeReuniao","projetor":true},{"id":2,"nome":"leo","capacidade":44,"disponivel":true,"precoPorHora":50.0,"tipo":"SalaDeReuniao","projetor":false},{"id":3,"nome":"sldad","capacidade":20,"disponivel":true,"precoPorHora":50.0,"tipo":"SalaDeReuniao","projetor":true}]
